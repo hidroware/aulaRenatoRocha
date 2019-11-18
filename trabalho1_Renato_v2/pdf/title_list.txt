@@ -1,0 +1,15 @@
+A Generic Model of Ontology to Visualize Information Science; Domain(OIS)
+Data-driven ontology evaluation based on competency questions: a study in the agricultural domain Article
+Ontology of Intelligence Preprint 
+On Algebraic Spectrum of Ontology Evaluation Article
+Tesauro: um tipo de ontologia
+Formal Ontology in Information Systems
+Ontological Engineering: With Examples from the Areas of Knowledge Management, E-Commerce and the Semantic Web
+Ontologies Come of Age
+OntoM4IS+: Ontology Reuse Method for Information Science
+Practicing an ontology spectrum for geological data interoperability
+ROBOT: A Tool for Automating Ontology
+ONTOLOGY (Heidegger Lexicon)
+State of the Art: Ontologies
+Task ontology for reuse of problem solving knowledge
+Ontology as a System

@@ -1,0 +1,56 @@
+15/11/2019 
+Todos os arquivos são de domínios publicados. Todos os direitos reservados. Uma cópia em PDF pode ser baixada do endereço eltrônico da primeira linha de cada "verbete".
+
+ont01.txt = {([http://eprints.hud.ac.uk/id/eprint/17545/1/Sawsaa_Final_Thesis_-_March_2013.pdf])}
+A GENERIC MODEL OF ONTOLOGY to VISUALIZE INFORMATION SCIENCE DOMAIN: --- University of Huddersfield Repository; Sawsaa, Ahlam; A Generic Model of Ontology to Visualize Information Science Domain(OIS); Original Citation; Sawsaa, Ahlam (2013) A Generic Model of Ontology to Visualize Information Science; Domain(OIS). Doctoral thesis, University of Huddersfield.; This version is available at http://eprints.hud.ac.uk/17545/
+
+ont02.txt = {([https://www.researchgate.net/publication/310017720])}
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/310017720; Data-driven ontology evaluation based on competency questions: a study in the agricultural domain Article· October 2016; Webert Araújo; Gercina Angela de Lima Federal University of Minas Gerais
+
+ont03.txt =  {([https://www.researchgate.net/publication/335061566])}
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/335061566; Ontology of Intelligence Preprint · March 2019  DOI: 10.13140/RG.2.2.25163.54569; author: Nicolae Sfetcu; University of Bucharest
+
+ont04.txt = {([https://www.researchgate.net/publication/247935724])}
+See discussions, stats, and author profiles for this publication at: 
+On Algebraic Spectrum of Ontology Evaluation Article in International Journal of Advanced Computer Science and Applications · August 2011. DOI: 10.14569/IJACSA.2011.020724.Adebayo Adekoya.Lagos State University.
+
+ont05.txt = removido
+
+ont06.txt = {([https://www.researchgate.net/publication/320215614])}
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/320215614. Tesauro: um tipo de ontologia
+Presentation · September 2015. DOI: 10.13140/RG.2.2.12987.72488. Marilda Lopes Ginez de Lara. Vânia Mara Alves Lima. University of São Paulo
+
+ont07.txt= {([https://klevas.mif.vu.lt/~donatas/Vadovavimas/Temos/OntologiskaiTeisingasKoncepcinisModeliavimas/papildoma/Guarino98-Formal%20Ontology%20and%20Information%20Systems.pdf])}
+Amended version of a paper appeared in N. Guarino (ed.), Formal Ontology in Information Systems.Proceedings of FOIS’98, Trento, Italy, 6-8 June 1998. Amsterdam, IOS Press, pp. 3-15. Formal Ontology and Information Systems. Nicola Guarino. National Research Council, LADSEB-CNR, Corso Stati Uniti 4, I-35127 Padova, Italy guarino@ladseb.pd.cnr.it
+
+ont08.txt = {([https://www.researchgate.net/publication/230771114])}
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/230771114; ; Ontological Engineering: With Examples from the Areas of; Knowledge Management, E-Commerce and the Semantic Web; Book · January 2004; CITATIONS; ; READS; ; 879; ; 4,346; ; 3 authors, including:; Mariano Fernández-López; University Foundation San Pablo CEU;
+
+ont09.txt = {([https://www.researchgate.net/publication/221024668])}
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/221024668; ; Ontologies Come of Age.; Conference Paper · January 2003; Source: DBLP; ; CITATIONS; ; READS; ; 188; ; 482; ; 1 author:; Deborah L Mcguinness; Rensselaer Polytechnic Institute; 421 PUBLICATIONS 25,462 CITATIONS; SEE PROFILE; ; Some of the authors of this publication are also working on these related projects:; ; W3C PROV-WG View project; ; Children's Health Exposure Analysis Resource View project; ; All content following this page was uploaded by Deborah L Mcguinness on 26 May 2014.; The user has requested enhancement of the downloaded file.
+
+ont10.txt = {([https://www.researchgate.net/publication/332275872])}
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/332275872; ; OntoM4IS+: Ontology Reuse Method for Information Science; Article · September 2018; DOI: 10.22478/ufpb.1981-0695.2018v13n2.41712; ; CITATIONS; ; READS; ; 0; ; 26; ; 2 authors, including:; Gercina Angela de Lima; Federal University of Minas Gerais
+
+ont11.txt = {([https://www.researchgate.net/publication/273062391])} 
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/273062391; ; Practicing an ontology spectrum for geological data interoperability; Conference Paper · August 2011; DOI: 10.5242/iamg.2011.0145; ; CITATIONS; ; READS; ; 3; ; 115; ; 5 authors, including:; Xiaogang Ma; ; Emmanuel John M. Carranza; ; University of Idaho; ; University of KwaZulu-Natal
+
+ont12.txt = {([https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-3002-3])} Jackson et al. BMC Bioinformatics; (2019) 20:407; https://doi.org/10.1186/s12859-019-3002-3; ; SOFTWARE; ; Open Access; ; ROBOT: A Tool for Automating Ontology; Workflows; Rebecca C. Jackson1* , James P. Balhoff2, Eric Douglass3, Nomi L. Harris3, Christopher J. Mungall3 and; James A. Overton1
+
+ont13.txt = {([https://www.researchgate.net/publication/335857423])} 
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/335857423; ; ONTOLOGY (Heidegger Lexicon); Chapter · December 2019; ; CITATIONS; ; READS; ; 0; ; 5; ; 1 author:; Jan Slaby; Freie Universität Berlin; 75 PUBLICATIONS 782 CITATIONS; SEE PROFILE; 
+
+ont14.txt = {([https://www.academia.edu/300216/State_of_the_Art_Ontologies])} 
+State of the Art: Ontologies; Javier Gramajo López; {jgramajo}@saesap.usac.edu.gt; Engineering Faculty, Computer Since and Systems Department; Universidad San Carlos de Guatemala; April 2005
+
+ont15.txt = {([https://www.researchgate.net/publication/243763523])} 
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/243763523; ; Task ontology for reuse of problem solving knowledge; Article Â· January 1995; ; CITATIONS; ; READS; ; 127; ; 531; ; 3 authors, including:; Riichiro Mizoguchi; Japan Advanced Institute of Science and Technology;
+
+ont16.txt = {([https://www.researchgate.net/publication/336229633])}
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/336229633; ; Ontology as a System; Technical Report · October 2019; DOI: 10.13140/RG.2.2.19493.45281; ; Joseph James Simpson; University of Washington Seattle; ; Mary Simpson
+
+
+
+
+
+
