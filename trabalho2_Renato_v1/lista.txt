@@ -1,0 +1,15 @@
+ont01.pdf - A Generic Model of Ontology to Visualize Information Science Domain(OIS)
+ont02.pdf - Data-driven ontology evaluation based on competency questions: a study in the agricultural domain Article
+ont03.pdf - Ontology of Intelligence Preprint 
+ont04.pdf - On Algebraic Spectrum of Ontology Evaluation Article
+ont05.pdf - A Translation Approach to Portable Ontology Specifications
+ont06.pdf - Formal Ontology in Information Systems
+ont07.pdf - Ontological Engineering: With Examples from the Areas of Knowledge Management, E-Commerce and the Semantic Web
+ont08.pdf - Ontologies Come of Age
+ont09.pdf - OntoM4IS+: Ontology Reuse Method for Information Science
+ont10.pdf - Practicing an ontology spectrum for geological data interoperability
+ont11.pdf - ROBOT: A Tool for Automating Ontology
+ont12.pdf - ONTOLOGY (Heidegger Lexicon)
+ont13.pdf - State of the Art: Ontologies
+ont14.pdf - Task ontology for reuse of problem solving knowledge
+ont15.pdf - Ontology as a System
